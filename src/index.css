@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.card-parent {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px 0;
+    gap: 20px;
+}
+
+body {
+    background: linear-gradient(154.48deg, #2A5AF7 4.61%, #AB229B 78.86%);
+}
+
+h1 {
+    padding-top: 100px;
+    color: white;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}

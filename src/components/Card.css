@@ -1,0 +1,46 @@
+.card {
+    width: calc((100% - 40px) / 3);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.card img {
+    width: 100%;
+}
+
+button {
+    margin: 10px 25px;
+    width: 300px;
+    height: 54px;
+    border-radius: 28px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border-width: 2px, 2px, 8px, 2px;
+    border: none;
+}
+
+.card h2 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    padding-top: 10px;
+    letter-spacing: 0%;
+}
+
+.card h3 {
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding-top: 10px;
+}
+
+.card p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding-top: 10px;
+}
